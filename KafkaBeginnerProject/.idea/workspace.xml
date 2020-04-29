@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02eb126e-4a84-47e7-ae13-f1b35e386019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZidQ7etogf92FD55FslxUU40OU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.KafkaBeginnerProject.tutorial1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemoAssignSeek">
+    <configuration name="ConsumerDemoAssignSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaBeginnerProject.tutorial1.ConsumerDemoAssignSeek" />
+      <module name="KafkaBeginnerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaBeginnerProject.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoGroups" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaBeginnerProject.tutorial1.ConsumerDemoGroups" />
+      <module name="KafkaBeginnerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaBeginnerProject.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaBeginnerProject.tutorial1.ConsumerDemoWithThread" />
+      <module name="KafkaBeginnerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaBeginnerProject.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaBeginnerProject.tutorial1.ProducerDemo" />
+      <module name="KafkaBeginnerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaBeginnerProject.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaBeginnerProject.tutorial1.ProducerDemoKeys" />
+      <module name="KafkaBeginnerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaBeginnerProject.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemoAssignSeek" />
+        <item itemvalue="Application.ConsumerDemoWithThread" />
+        <item itemvalue="Application.ProducerDemoKeys" />
+        <item itemvalue="Application.ConsumerDemoGroups" />
+        <item itemvalue="Application.ProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dil-pipeline/scala_lib" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02eb126e-4a84-47e7-ae13-f1b35e386019" name="Default Changelist" comment="" />
+      <created>1585325829105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585325829105</updated>
+      <workItem from="1585325833575" duration="6388000" />
+      <workItem from="1585336075594" duration="8083000" />
+      <workItem from="1585612656555" duration="395000" />
+      <workItem from="1585761003707" duration="883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="949" y="202" key="#ConsumerDemoGroups" timestamp="1585342090844">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="949" y="202" key="#ConsumerDemoGroups/0.0.1680.1050@0.0.1680.1050" timestamp="1585342090844" />
+    <state x="1078" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1585342926365">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1078" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585342926365" />
+    <state width="1638" height="302" key="GridCell.Tab.0.bottom" timestamp="1585612622354">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="788" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585345583026" />
+    <state width="1638" height="302" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585612622354" />
+    <state width="1638" height="302" key="GridCell.Tab.0.center" timestamp="1585612622354">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="788" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585345583024" />
+    <state width="1638" height="302" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585612622354" />
+    <state width="1638" height="302" key="GridCell.Tab.0.left" timestamp="1585612622354">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="788" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585345583024" />
+    <state width="1638" height="302" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585612622354" />
+    <state width="1638" height="302" key="GridCell.Tab.0.right" timestamp="1585612622354">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="788" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585345583025" />
+    <state width="1638" height="302" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585612622354" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1585761112409">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585761112409" />
+    <state x="930" y="248" key="run.anything.popup" timestamp="1585327076928">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="930" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585327076928" />
+  </component>
+</project>

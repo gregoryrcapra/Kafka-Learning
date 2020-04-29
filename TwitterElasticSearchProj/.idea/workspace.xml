@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06153713-7500-4f9f-b54d-2aa1b0a95947" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zri1MneuTGHQuTvyYofYov4rp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.TwitterElasticSearchProj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TwitterProducer">
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TwitterElasticSearchProj.ElasticSearchConsumer" />
+      <module name="TwitterElasticSearchProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TwitterElasticSearchProj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TwitterElasticSearchProj.ElasticSearchQuery" />
+      <module name="TwitterElasticSearchProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TwitterElasticSearchProj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaStreamsProj.StreamsFilterTweets" />
+      <module name="KafkaStreamsProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaStreamsProj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TwitterElasticSearchProj.TwitterProducer" />
+      <module name="TwitterElasticSearchProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TwitterElasticSearchProj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwitterProducer" />
+        <item itemvalue="Application.StreamsFilterTweets" />
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.ElasticSearchQuery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dil-pipeline/scala_lib" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06153713-7500-4f9f-b54d-2aa1b0a95947" name="Default Changelist" comment="" />
+      <created>1585603397683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585603397683</updated>
+      <workItem from="1585603401063" duration="7204000" />
+      <workItem from="1585612656131" duration="12269000" />
+      <workItem from="1585761004410" duration="14563000" />
+      <workItem from="1586278511709" duration="1788000" />
+      <workItem from="1586280326103" duration="3134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="190" key="#StreamsFilterTweets" timestamp="1586280533679">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="524" y="190" key="#StreamsFilterTweets/0.0.1680.1050@0.0.1680.1050" timestamp="1586280533679" />
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585612476105">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585612476105" />
+    <state width="1638" height="403" key="GridCell.Tab.0.bottom" timestamp="1586537420321">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="424" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586280560603" />
+    <state width="1638" height="403" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586537420321" />
+    <state width="1638" height="403" key="GridCell.Tab.0.center" timestamp="1586537420320">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="424" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586280560601" />
+    <state width="1638" height="403" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586537420320" />
+    <state width="1638" height="403" key="GridCell.Tab.0.left" timestamp="1586537420317">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="424" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586280560600" />
+    <state width="1638" height="403" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586537420317" />
+    <state width="1638" height="403" key="GridCell.Tab.0.right" timestamp="1586537420320">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="424" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586280560602" />
+    <state width="1638" height="403" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586537420320" />
+    <state x="378" y="198" key="Maven.ArtifactSearchDialog" timestamp="1585609146955">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="378" y="198" key="Maven.ArtifactSearchDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585609146955" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1585612732945">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585612732945" />
+    <state x="234" y="234" key="new project wizard" timestamp="1586280848279">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="234" y="234" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1586280848279" />
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a29ded-9b67-44b3-abc5-bc73de56a9bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aDr8yrm8wWTQBEmHEDDuDQpZ1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.KafkaStreamsProj.StreamsFilterTweets" />
+      <module name="KafkaStreamsProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.KafkaStreamsProj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamsFilterTweets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dil-pipeline/scala_lib" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a29ded-9b67-44b3-abc5-bc73de56a9bc" name="Default Changelist" comment="" />
+      <created>1586280849055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586280849055</updated>
+      <workItem from="1586280852893" duration="2748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="516" key="GridCell.Tab.0.bottom" timestamp="1586537431378">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="516" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586537431378" />
+    <state width="1638" height="516" key="GridCell.Tab.0.center" timestamp="1586537431378">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="516" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586537431378" />
+    <state width="1638" height="516" key="GridCell.Tab.0.left" timestamp="1586537431377">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="516" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586537431377" />
+    <state width="1638" height="516" key="GridCell.Tab.0.right" timestamp="1586537431378">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="516" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586537431378" />
+  </component>
+</project>
